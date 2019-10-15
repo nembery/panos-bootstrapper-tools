@@ -1,0 +1,6 @@
+# hosname, tpl_name, dg_name
+test-001,test-001,west-coast,ABC123
+test-002,test-002,west-coast,ADD123
+test-003,test-003,west-coast,ABZ123
+test-005,test-004,west-coast,ABD123
+test-005,test-005,west-coast,ABC125
