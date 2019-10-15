@@ -6,7 +6,7 @@ with open('bootstrap_data.csv', 'r') as data_file:
         if '#' in d:
             print('Skipping comment')
             continue
-        d_fields = d.split(',')
+        d_fields = d.strip().split(',')
         hostname = d_fields[0]
         tpl_name = d_fields[1]
         dg_name = d_fields[2]

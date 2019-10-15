@@ -1,4 +1,4 @@
-# hosname, tpl_name, dg_name
+# hostname, tpl_name, dg_name, auth_code
 test-001,test-001,west-coast,ABC123
 test-002,test-002,west-coast,ADD123
 test-003,test-003,west-coast,ABZ123
